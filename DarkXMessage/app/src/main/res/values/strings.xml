@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DarkX Message</string>
+    <string name="step_indicator_description">Step %1$d of %2$d</string>
+
+    <string name="onboarding_welcome_title">Messaging, redesigned.</string>
+    <string name="onboarding_welcome_body">A fast, polished SMS app built on your phone\'s native messaging.</string>
+    <string name="onboarding_continue">Continue</string>
+
+    <string name="onboarding_sms_title">Real SMS. No internet needed.</string>
+    <string name="onboarding_sms_body">DarkX Message sends and receives regular text messages.</string>
+    <string name="onboarding_sms_point_carrier">Messages travel over your SIM and carrier, like any text.</string>
+    <string name="onboarding_sms_point_private">Your messages stay on your device. Nothing is uploaded.</string>
+    <string name="onboarding_sms_point_offline">Read your conversations any time, even offline.</string>
+
+    <string name="onboarding_notif_title">Know when a text arrives</string>
+    <string name="onboarding_notif_body">Allow notifications so new messages reach you right away. You can change this later.</string>
+    <string name="onboarding_notif_allow">Allow notifications</string>
+    <string name="onboarding_notif_skip">Not now</string>
+
+    <string name="onboarding_default_title">Make DarkX your messaging app</string>
+    <string name="onboarding_default_body">Set DarkX Message as your default messaging app to send, receive, and manage SMS messages. Android allows only one app to manage message storage.</string>
+    <string name="onboarding_default_set">Set as default</string>
+    <string name="onboarding_default_retry">Try again</string>
+    <string name="onboarding_default_settings">Open default app settings</string>
+    <string name="onboarding_default_skip">Continue without</string>
+    <string name="onboarding_default_declined">DarkX Message isn\'t your default messaging app yet. Until it is, new messages can\'t be received or managed here.</string>
+    <string name="onboarding_default_unavailable">This device doesn\'t support choosing a default messaging app, so SMS features are unavailable.</string>
+    <string name="onboarding_default_already">DarkX Message is already your default messaging app.</string>
+
+    <string name="onboarding_done_title_success">You\'re all set</string>
+    <string name="onboarding_done_body_success">DarkX Message is your default messaging app.</string>
+    <string name="onboarding_done_title_limited">Setup finished with limits</string>
+    <string name="onboarding_done_body_limited">DarkX Message isn\'t your default messaging app. You can choose it later in your phone\'s default app settings.</string>
+    <string name="onboarding_get_started">Get started</string>
+
+    <string name="home_placeholder_body">Setup is complete. The inbox is added in the next part.</string>
+</resources>
